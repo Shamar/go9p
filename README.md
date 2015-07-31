@@ -1,5 +1,5 @@
-[![Build Status](https://travis-ci.org/Shamar/go9p.svg?branch=)](https://travis-ci.org/Shamar/go9p)
-[![Coverage Status](https://coveralls.io/repos/Shamar/go9p/badge.svg?branch=master&service=github)](https://coveralls.io/github/Shamar/go9p)
+[![Build Status](https://travis-ci.org/Shamar/go9p.svg?branch=experiments)](https://travis-ci.org/Shamar/go9p)
+[![Coverage Status](https://coveralls.io/repos/Shamar/go9p/badge.svg?branch=experiments&service=github)](https://coveralls.io/github/Shamar/go9p)
 
 This is go9p done in a way that I can understand.
 
